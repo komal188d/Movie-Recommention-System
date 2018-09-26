@@ -1,0 +1,41 @@
+body{
+	background: #000000c4;
+}
+.jumbotron{
+	width: 30%;
+	/*height: 10%;*/
+	margin-top: 7%;
+	margin-left: 36%;
+}
+form{
+	margin-top: -50px;
+	margin-bottom: -50px;
+	margin-right: -10px;
+	margin-left: -10px;
+}
+.btn-primary{
+	margin-left: 35%;
+}
+#textbox1{
+	border-radius: 15px;
+}
+.fa-search {
+	margin-top: 12px;
+	margin-left: 10px;
+	margin-right: 10px;
+	color: white;
+}
+.dropdown{
+	margin-left: 100px;
+	margin-top: 10px;
+}
+a {
+	color: white;
+}
+h1{
+	color: white;
+	margin-top: 100px;
+	font-family: 'Alex Brush';
+	text-align: center;
+	font-size: 72px;
+}
